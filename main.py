@@ -19,7 +19,7 @@ def stop_game(score,level):
   print(f"Sorry, that's wrong. Final Score: {score}")
   return level
 
-
+replit.clear()
 print(art.logo)
 level = True
 score = 0
